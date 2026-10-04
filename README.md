@@ -2,3 +2,4 @@
 ##实验二: 本地仓库
 1.git init
 2. git add
+本仓库由Mila维护
